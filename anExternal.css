@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    background-image: url("https://www.nordicvisitor.com/images/iceland/winter/northern-lights-lake-thingvellir-national-park-iceland.jpg");
+}
+
+h1 {
+    font-family: Georgia;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: Georgia;
+}
+
+img {
+    float: right;
+    border-radius: 80%;
+    margin: 0 0 50px 50px;
+}
